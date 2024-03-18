@@ -1,0 +1,5 @@
+documents
+!public/
+!.gitignore
+!seeder/*
+/users
